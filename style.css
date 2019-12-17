@@ -14,11 +14,11 @@ h1{
 }
 
 .row{
-  margin-left: 80px;
+  margin-left: 90px;
 }
 
 .buffer{
-  height: 10rem;
+  height: 13rem;
 }
 
 .btn {
@@ -28,14 +28,14 @@ h1{
 }
 
 .btn-primary {
-  background-color: #F05F44;
-  border-color: #F05F44;
+  background-color: #5bd1d7;
+  border-color: #5bd1d7;
 }
 
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
-  border-width: 4px;
+  background-color: #348498;
+  border-color: #348498;
+  border-width: 2px;
 }
 
 
