@@ -2,9 +2,6 @@
 
 ![Alt-Text](https://www.eccu.edu/wp-content/uploads/2018/09/Digital-Forensics.jpg)
 
-
-![Alt text](https://www.eccu.edu/wp-content/uploads/2018/09/Digital-Forensics.jpg)
-
 # Forensic Research
 
 This Repository is started for the Forensic Research on Pdf, Metadata and the PMC Check. This repository is to document 
@@ -13,6 +10,7 @@ Forensic.
 
 # Structure
 
+```
 Forensics Research
 └─ pdf
 |  └─ documentation
@@ -30,6 +28,7 @@ Forensics Research
 |  └─ requirements.txt
 |  └─ README.md
 └─ README.md
+```
 
 # Table of Content
 
